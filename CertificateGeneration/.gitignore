@@ -1,0 +1,6 @@
+.vscode
+/venv/*
+
+list.csv
+/pictures/*.png
+certificate.png
